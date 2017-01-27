@@ -1,2 +1,1 @@
-# Exercise01
-Create an HTML webpage for any fictional character of choice.
+# Repository for CSC-435 spring semester
