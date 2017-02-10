@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+h1 {
+    font-size: 65px;
+    font-family: "Oswald";
+    color: #000000;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Oswald";
+    color: #000000;
+    text-transform: uppercase;
+}
+
+
+a {
+      font-size: 25px;
+      font-family: "Oswald";
+      color: #d86553;
+      letting-spacing: 15px;
+      margin-left: 10px;
+      margin-top: -20px;
+      text-transform: uppercase;
+}
+
+div {
+    display:block;
+    width:1200px;
+    margin-left:60px;
+}
+img {
+    float:left;
+    padding: 10px;
+}
+
+.imagealign {
+    background-position: center bottom, center right;
+    background-repeat:no-repeat;
+}
