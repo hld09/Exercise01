@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+body{
+  margin-top: 15%;
+
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+h1 {
+    font-size: 65px;
+    font-family: "Oswald";
+    color: #aa5244;
+    text-align: center;
+    letting-spacing: 15px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Times New Roman";
+    color: #000000;
+    letting-spacing: 15px;
+    text-transform: italic;
+}
+form{
+z-index: auto;
+position:fixed;
+margin-left: 43%;
+margin-right:25%;
+width: 50%;
+}
+
+a:visited {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+div > p {
+    font-size: 12px;
+}
+
+div h3 {
+    font-size: 20px;;
+}
+
+resultsdiv {
+  text-align:center;
+}
+.testimonials {
+    width: 300px;
+    border: 3px solid black;
+    padding: 25px;
+    margin: 10px;
+}
+
+#confetti{
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
